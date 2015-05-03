@@ -2,6 +2,8 @@
 using System.Collections;
 
 public class RotateCard : MonoBehaviour {
+    //To Be Reworked, have a better way just need to implement it.
+
 	[SerializeField] private float rotationSpeed;
 	[SerializeField] private float rotationAmount;
 
